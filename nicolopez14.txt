@@ -2,3 +2,50 @@ url: https://github.com/Olecra/utn
 Grupo 4
 Integrantes: Esteban Tauriño / Nicolás López / Marcelo Juarez
 
+///////////
+Calculadora
+
+El unico problema del codigo sería que si la divion por cero no se puede hacer, no me deberia mostrar el resultado como cero, la variable resultado debeeria ir dentro del segun.
+
+//////////
+
+Contador
+Me gusta como esta hecho
+//////////
+
+
+//////////
+ContadorVocales
+En la linea 22 y 23 dentro de la función, definis contador e i como entero en lineas diferentes, lo mejor seria definirlas las dos en la misma linea, separadas por una coma. 
+
+
+//////////
+
+invertir
+Lo mismo pasa con las variables, lo mejor seria unir todas las variables de un mismo tipo en una misma linea.
+
+el nombre de matriz es incorrecto, la matriz es bidimensional, lo que estas utilanzado es un vector o lista o array. Es lo mismo
+
+//////////
+Matrices ok
+//////////
+
+Area de triangulo ok
+/////////
+Tabla de multiplicar 
+
+Si bien el resultado es el esperado, en la linea 13, dentro del para falta el hacer, aunque pseint lo entienda y ejecute correctamente la secuencia, es importante que este.
+
+/////////
+Piramide ok
+/////////
+
+interes
+
+Definir todas las variables de tipo real en una misma linea.
+/////////
+
+adivinar numero
+
+
+

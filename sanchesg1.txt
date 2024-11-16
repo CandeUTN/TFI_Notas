@@ -1,0 +1,83 @@
+Grupo 1
+Integrantes: Gines Sanches / Francisco Macchiavelo / Renzo Santoro
+
+
+//////////////
+Adivina_adivinador: En la linea 4 su codigo es este ( adivinado<-azar(25)+1). Esto no es correcto, ya que, el rango  que esta tomando azar es de el 0 hasta el 26. Si bien creo que ese + 1 se debe a que azar de el valor de cero este sea sustituido por un 1.
+
+En el mismo ejercicio, jamas nos muestra si el numero ingresado es más alto o más bajo al numero adivinado.
+
+Veo un tanto innesaria la anidación de un repetir en un minetras , mientras el numero no sea el adivinado, se sigue ejecutando el bucle.
+
+Me gusto el uso de Limpiar Pantalla
+
+//////////////
+
+//////////////
+
+Calculadora
+
+Si bien para cerrar el algoritmo esta el esperar tecla, hay que indicarle al usuario esto, "Para terminar, toque cualquier boton".
+
+No entiendo de nuevo el bucle repetir, si lo tenemos cualquier operacion se va a realizar una vez, por lo que no es nesario, un bucle.
+
+Tampoco entiendo bien el tema de pedir los numeros dentro del segun, no es más correcto, pedir la operación se va a relizar, pedir los numeros y ahi realizar, la suma, división, etc, segun el caso?
+Para que el según no tenga tantas lineas de codigoy solo se encargue de sumar, resta, dividir, etc. 
+
+//////////////
+
+Dar vuelta
+Lo unico a cambiar seria el Esperar tecla, debe mostrar el resultado y terminar el algoritmo.
+
+//////////////
+
+intereseslocos
+
+En la linea 3 y 4 definen variables del tipo real, lo mejor seria utilizar solo una linea para definirlas
+
+//////////////
+
+piramide
+
+
+//////////////
+
+programa_vocales
+
+Definir frase y vocales como caracter no es correcto, si bien lo toma y no se crea ningun eror, lo que deberia aparacer es cadena.
+
+si bien ustedes definen vocales, la variable que usan es Vocales, hay que tener cuidado con los nombres, si bien pseint lo entiende, no es lo correcto.
+
+El error que que presentaba este algoritmo es que ustedes empezaban la iteracion desde el numero 0, cuando en este caso, se deberia usar 1. Por eso en algunos casos fallaba.
+El esperar tecla no deberia ir.
+
+//////////////
+
+promedios
+
+No entiendo porque no definieron todas las variables,
+El numero negativo no debe ser tenido en cuenta para el promedio, el numero negativo es el que detiene el bucle.
+Sin el esperar tecla
+
+//////////////
+suma_matrices
+
+/////////////
+
+tabla_multiplicar
+No entiendo el gasto innecsario de codigo de mostarme una tabla de multiplicar al inicio, con que diga que muestra una tabla de multiplicar respecto al numero ingresado, estaba ok. 
+
+En vez del repetir hasta que sea igual 21, podrian usar un mientras i menor o igual a 20, es mejor y más comprensible.
+
+////////////
+
+triangulo
+
+///////////
+
+
+
+
+
+
+

@@ -1,0 +1,3 @@
+url: https://github.com/MaximoBritez/Trabajo-Final.git
+Grupo 2
+Integrates:Rene Fernando Mamani / Maximo Britez / Ignacio Daniel Mozzi

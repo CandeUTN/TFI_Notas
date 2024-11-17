@@ -2,3 +2,56 @@ url: https://github.com/matyashp/pruebahintze
 Grupo 3
 Integrantes: Araujo Martin / Catini Santiaga / Hintze Pacheco Matías Ariel / Krenz David Jorge
 
+//////////
+calculadora
+En la linea 23 hay un sino que no hace nada
+No hace falta verificar si se entro una cadena y convertirla a numero. Si el usuario entra un texto, debe volver a ingresar los datos. Si tenemos esta verificación no se nos permite realizar calculo con el numero 90.
+En el bucle que comienza en la linea 19, no hace falta la estructura si, esta tiene el mismo codicinal que el bucle, por lo tanto con Escribir "Error: Debe ingresar una operación valida", funcionaria exactacmente igual.
+Dentro del segun de la linea 36, utilizaste comillas simples y dobles, para encerrar un elemento, si bien pseint retorna el valor esperado, no es correcto utilizarlo. 
+
+//////////
+
+Calcular promedios ok
+
+//////////
+
+contador vocales
+No esta la parte de las vocales con las tildes
+
+//////////
+
+Imversor ok
+
+//////////
+
+suma_de_matriz
+
+Cuando completamos los numeros de la matrz B el mensaje es , Ingrese los valores de la Matriz A, cosa que es incorrecta.
+Si todas las variables van a ser de tipo entero, usemos solo una linea de codigo.
+En la linea 31 dejaron un espacio en el corchete.
+
+//////////
+
+area de triangulo ok
+
+//////////
+
+tabla de multiplicar
+
+Con un solo si era suficiente. si es distinto a 0 se ejecuta el para, sino el mensaje
+
+//////////
+
+Piramide 
+Entendieron correctamente la consigna
+
+//////////
+
+
+
+
+
+
+
+
+

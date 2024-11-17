@@ -1,3 +1,31 @@
 url: https://github.com/MaximoBritez/Trabajo-Final.git
 Grupo 2
 Integrates:Rene Fernando Mamani / Maximo Britez / Ignacio Daniel Mozzi
+
+
+//////////
+adivinar ok
+//////////
+Calcular
+Lo unico que todas las variables de tipo real, van en una misma linea.
+//////////
+contador_vocales
+a revisar
+ok
+//////////
+interes ok
+/////////
+inversor ok
+/////////
+piramidedenumeros
+Definir todas las varibles de tipo entero en una misma linea
+////////
+promedio
+Inicializar la variables contador pero esta nunca se usa, usan cont que fue la ustedes difinieron
+////////
+Suma_de_matrices
+Mostrar la sumas en formato matriz
+///////
+
+
+

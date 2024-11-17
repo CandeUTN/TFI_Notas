@@ -26,6 +26,10 @@ Inicializar la variables contador pero esta nunca se usa, usan cont que fue la u
 Suma_de_matrices
 Mostrar la sumas en formato matriz
 ///////
+tabla_de_multiplicarok
+//////
+triamgulo ok
+
 
 
 

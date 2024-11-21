@@ -2,3 +2,75 @@ url:https://github.com/Malsf2024/TPI_programacion_UTN_TUT_GRUPO_3
 Grupo 10
 
 Integrantes: Andres Monzon Jose / Cuellar Marcelo Antonio Luis / Sanchez Feraldo Facundo Ramirez /
+
+
+////////////
+
+ Porgrama_Adivinanza ok
+
+////////////
+
+Area_Triangulo
+
+si la variable Superficie empieza con mayusculas, las demas variables deben segui el mismo lineamiento.
+
+////////////
+
+ContadorDeVocales
+
+La palabra TEXTO ES UNA PALABRA RESERVADA, NO SE DEBE USAR COMO NOMBRE DE VARIABLE
+
+El algoritmo no funciona, ya que los parametros de la subcadena no correctos, en vez del 1 tiene que ir de nuevo indice
+
+///////////
+
+Calculadora_Operaciones_Basicas
+
+Si las variables Num_1 y Num_2 empiezan con mayusculas oper_mat tambien.
+
+///////////
+
+Inversor_de_Palbras
+
+el para debe llegar hasta 1 sino siempre va a ver un espacio en blanco
+
+///////////
+
+construirPiramide ok
+
+///////////
+
+CalcularPromedio
+
+La palabra numero ES UNA PALABRA RESERVADA, NO SE DEBE USAR COMO NOMBRE DE VARIABLE
+
+///////////
+
+TablaDeMultiplicar
+
+La palabra numero ES UNA PALABRA RESERVADA, NO SE DEBE USAR COMO NOMBRE DE VARIABLE
+
+///////////
+
+Calculo_de_interes
+
+La variable TOTAL no puede ir toda en mayuscula, debe cumplir las reglas de las demás variables
+
+Si en el escribir me muestra que puedo entrar decimeles en time, time no puede ser entero
+
+///////////
+
+Suma_Matriz
+
+Excesivo uso de paras
+
+///////////
+
+
+
+
+
+
+
+
+

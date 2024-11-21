@@ -1,3 +1,53 @@
 url:https://github.com/alocanetto/TP_Final_UTN.git
 Grupo 11
 Integrantes: Alejandro Fabian Locanetto / Camila Rios / Dionel David Soto
+
+1. Calculadora
+Errores:
+Variables operacion_suma, operacion_resta, etc., no están definidas previamente.
+El operador : en el bloque segun debe ser coherente en todos los casos.
+Falta manejar divisiones por 0.
+Uso innecesario de comas en Escribir.
+
+2. Contador_Vocales
+Errores:
+El algoritmo no verifica que la entrada sea realmente una palabra.
+
+3. Interes
+Errores:
+Variable calcInteres no está definida previamente.
+Cálculo de interés simple tiene error: falta dividir por 100 para que la tasa funcione correctamente.
+
+4. Invertir_Frase
+Errores:
+No valida si la frase es vacía o tiene caracteres especiales.
+
+5. Multiplicar
+Errores:
+Comentario indica "tabla de multiplicar de n hasta x 20", pero no especifica que siempre va hasta 20.
+Repetición de pasos innecesarios en el bucle.
+
+6. SumaMatrices
+Errores:
+Dimensión de matrices debería validar que filas y columnas son mayores que 0.
+Los comentarios podrían ser más específicos sobre el propósito de cada paso.
+
+7. Adivinar
+Errores:
+Variable intento no está definida antes de usarla.
+Falta limitar las entradas a números entre 1 y 25.
+
+8. Pirámide
+Errores:
+El bucle genera una pirámide repetitiva (imprime el número en cada fila en lugar de una secuencia creciente).
+No valida que el número ingresado sea positivo.
+
+9. Promedios
+Errores:
+Variable prom no está definida antes de usarla.
+Uso inconsistente de comentarios para explicar el flujo del programa.
+
+10. Triángulo
+Errores:
+Faltan validaciones para la entrada (por ejemplo, que la base y la altura sean mayores que 0).
+Error tipográfico en "triángulo" en la salida.

@@ -1,3 +1,79 @@
 url: https://github.com/MarcosSubia/Trabajo-Final-Integrador---Programaci-n-I-.git
 Grupo 12
 Integrantes:  Marcos Subia Insaurralde
+
+
+//////////////
+
+ AdivinarNumero
+
+ Los nombres de algoritmo no empiezan con mayusculas
+
+ No entiendo bien a que se deba que este en portuges 
+
+ El rango de adivinaza era de 0 a 25
+
+ Si bien funciona, no esta cerrado correctamente el algoritmo y el repetir.
+
+//////////////
+
+invertir ok
+
+/////////////
+
+AreaDeUnTriangulo ok, 
+
+/////////////
+
+Calculadora ok
+
+////////////
+
+CalcularInteres
+
+La tasa tiene que estar en el codigo, no debe ser ingresada por el usuario
+
+////////////
+
+ContadorDeVocales
+
+Las variables de tipo entero escribirlas en una misma linea
+
+///////////
+
+PiramideLiteral
+
+En la base falla, y con numeros de 2 cifras se rompe más
+
+///////////
+
+Promedio
+
+si bien el algoritmo funciona NUNCA SE DEBE USAR UNA PALABRA RESERVADA PARA EL NOMBRE DE UNA VARIABLE 
+
+///////////
+
+SumaDeMatrices
+
+Demasiados paras dificulta la legibilidad
+
+///////////
+
+TablaDeMultiplicar
+
+si bien el algoritmo funciona NUNCA SE DEBE USAR UNA PALABRA RESERVADA PARA EL NOMBRE DE UNA VARIABLE 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

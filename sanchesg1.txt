@@ -4,7 +4,7 @@ Integrantes: Gines Sanches / Francisco Macchiavelo / Renzo Santoro
 
 
 //////////////
-Adivina_adivinador: En la linea 4 su codigo es este ( adivinado<-azar(25)+1). Esto no es correcto, ya que, el rango  que esta tomando azar es de el 0 hasta el 26. Si bien creo que ese + 1 se debe a que azar de el valor de cero este sea sustituido por un 1.
+Adivina_adivinador: 
 
 En el mismo ejercicio, jamas nos muestra si el numero ingresado es más alto o más bajo al numero adivinado.
 

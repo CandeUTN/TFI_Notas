@@ -2,3 +2,48 @@ url: https://github.com/Elias-Miranda/PROGRAMMING-PROJECT
 Grupo 5
 Integrantes: Elias Miranda / Gustavo Nuccio / Pablo Gabriel Ferraro
 
+Calculadora:
+
+Error: La función minusculas no existe en PSeInt. Se debe usar Minusculas(operacion) para convertir la entrada a minúsculas.
+
+Promedio:
+
+Error: El manejo de los números negativos no es claro. Deberías verificar que el primer número ingresado no sea negativo antes de proceder con los cálculos.
+
+Error: No se asegura que el promedio se calcule solo cuando se hayan ingresado valores válidos (positivos). Si se ingresa un valor negativo, el programa no está gestionando correctamente el cierre de la entrada.
+
+Contador de Vocales:
+
+Error: La comprobación de las vocales está demasiado extendida. Podrías usar un conjunto o lista con las vocales para realizar una verificación más eficiente.
+Error: La condición para verificar si es una vocal podría simplificarse con una estructura más compacta, lo que hace el código más legible y eficiente.
+
+Invertir Cadena:
+
+Error: La función longitud debería escribirse en mayúsculas como Longitud para ser correcta en PSeInt.
+Error: La manipulación de índices al recorrer la cadena de atrás hacia adelante puede ser confusa. Asegúrate de usar los índices correctamente para evitar errores de rango.
+
+Suma de Matrices:
+
+Error: Falta una validación para asegurar que las matrices se definan con las dimensiones correctas antes de hacer las operaciones.
+Calcular Área del Triángulo:
+
+Correcto: No hay errores. El cálculo del área está bien realizado y el algoritmo es correcto.
+
+Tabla de Multiplicar:
+
+Correcto: No hay errores. El algoritmo funciona correctamente y genera la tabla de multiplicar de manera adecuada.
+Pirámide de Números:
+
+Correcto: El algoritmo es correcto. Genera la pirámide de números correctamente.
+
+Cálculo de Interés Simple:
+
+Error: La conversión de la tasa de interés a decimal (dividiendo por 100) puede ser innecesaria, ya que el usuario puede ingresar directamente la tasa en decimal, o debería indicarse claramente en las instrucciones.
+
+Sugerencia: Si se mantiene la conversión, debe indicarse claramente que la entrada debe ser un porcentaje, no un valor decimal.
+
+Adivinar Número:
+
+Error: El uso de Azar(25) genera números entre 0 y 25, lo cual no es correcto si deseas que el número esté entre 1 y 25. Asegúrate de ajustar el rango del número aleatorio generado.
+
+Error: La lógica para mostrar los mensajes podría mejorarse para indicar con más claridad si el número ingresado es mayor o menor que el número aleatorio.

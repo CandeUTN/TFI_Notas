@@ -1,3 +1,40 @@
 url: https://github.com/LucasBJrs/Programacion-UTN/tree/LucasBJrs-Tp-Final
 Grupo 16
 Integrantes:  Isa Victor Javier Maranguello / Lucas Gabriel Osuna / Gabriel Roberto Vázquez / Maximiliano Daniel
+
+
+AdivinaNumero:
+Error en el comentario: "el bucle que ejecuta hasta que intento sea igual a numeroSecreto" (concepto confuso, es un Hasta Que con escape implícito).
+
+AreaTriangulo:
+Lógica incompleta: no se valida si base o altura son negativas antes del cálculo.
+
+Calculadora:
+Error lógico en la división: no se realiza validación completa del denominador antes de la operación.
+El caso De Otro Modo no incluye un escape explícito.
+
+CalculoInteresSimple:
+Falta un mensaje de validación si capital o tiempo son negativos.
+
+FraseInvertida:
+Variable nuevaCadena no inicializada antes de su uso.
+
+Pirámide:
+Uso incorrecto o confuso de las variables j e i sin inicialización adecuada.
+Lógica para centrar los números no es clara ni escalable para diferentes tamaños.
+
+Promedio:
+División por i sin validar si es 0 (posibilidad de error en la primera iteración).
+Uso de un Si para verificar la validez del primer número negativo redundante.
+
+ContadorDeVocales:
+Uso de O en lugar de operadores más explícitos o alternativos (O puede ser confuso).
+Falta de manejo de caracteres en mayúscula (solo compara vocales en minúscula).
+
+SumaMatrices:
+Uso de Escribir con múltiples valores en la misma línea puede ser confuso.
+El resultado no está presentado en un formato visual claro como matriz.
+
+TablaMultiplicar:
+Comentarios no necesarios para operaciones básicas como multiplicación.
+Falta de validación si el usuario ingresa valores no numéricos o negativos.

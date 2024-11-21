@@ -1,3 +1,51 @@
 url: https://github.com/MatiasValeiro91/Trabajo-Final-Integrador---Programacion
 Grupo 7
 Integrantes: Matias Andres Valeiro / Damián Ariel Britos/ Nazareno Jesus Cahuasire
+
+////////////
+
+adivinar_numero ok
+
+///////////
+
+areaTriangulo ok
+
+///////////
+
+Calculadora ok
+
+///////////
+
+ContadorVocales ok Condicional gigante
+
+//////////
+
+interes
+
+El nombre del algoritmo no debe ir con acento es una mala practica.
+
+Corregir el nombre de la tasa, por tasa_diaria
+
+El signo pesos va al principio del monto no al ultimo
+
+//////////
+
+InvertiPalabraTexto ok
+
+/////////
+
+Piramide
+Con numero de 2 cifras comienza a fallar
+
+/////////
+Promedio
+No debe pedir la cantidad de numeros que va a promediar, debe ingresar los numeros del promedio, y cuando lo quiera detener, ingresar un numero negativo
+
+////////
+
+Suma de matriz
+Demasiados paras, a la hora de leerlo es más dificil
+
+///////
+
+tablaMultiplicarHasta20 ok

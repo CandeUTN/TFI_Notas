@@ -46,6 +46,7 @@ Definir todas las variables de tipo real en una misma linea.
 /////////
 
 adivinar numero
+Nota:8
 
 
 

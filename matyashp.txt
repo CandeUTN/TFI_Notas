@@ -15,8 +15,7 @@ Calcular promedios ok
 
 //////////
 
-contador vocales
-No esta la parte de las vocales con las tildes
+contador vocales ok
 
 //////////
 
@@ -52,6 +51,8 @@ Interes ok
 /////////
 
 adivinza ok, aunque siento que se complicaron la vida
+
+Nota: 9
 
 
 

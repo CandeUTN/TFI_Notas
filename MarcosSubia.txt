@@ -7,8 +7,6 @@ Integrantes:  Marcos Subia Insaurralde
 
  AdivinarNumero
 
- Los nombres de algoritmo no empiezan con mayusculas
-
  No entiendo bien a que se deba que este en portuges 
 
  El rango de adivinaza era de 0 a 25
@@ -64,7 +62,7 @@ TablaDeMultiplicar
 si bien el algoritmo funciona NUNCA SE DEBE USAR UNA PALABRA RESERVADA PARA EL NOMBRE DE UNA VARIABLE 
 
 
-
+Nota: 6
 
 
 

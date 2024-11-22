@@ -10,7 +10,6 @@ Calcular
 Lo unico que todas las variables de tipo real, van en una misma linea.
 //////////
 contador_vocales
-a revisar
 ok
 //////////
 interes ok
@@ -30,6 +29,7 @@ tabla_de_multiplicarok
 //////
 triamgulo ok
 
+Nota: 9
 
 
 

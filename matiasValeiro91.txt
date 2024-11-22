@@ -49,3 +49,5 @@ Demasiados paras, a la hora de leerlo es más dificil
 ///////
 
 tablaMultiplicarHasta20 ok
+
+Nota: 8

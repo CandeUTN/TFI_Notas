@@ -60,7 +60,9 @@ En la linea 11 hay que sacar los :
 
 Adivinar
 
-No me debe mostar el numero que se debe adivinar, ademas me debe dar alguno intentos y guiarme hacia la solucion, si es muy alto o muy bajo mi numero ingresado. 
+No me debe mostar el numero que se debe adivinar, ademas me debe dar alguno intentos y guiarme hacia la solucion, si es muy alto o muy bajo mi numero ingresado.
+
+Nota: 7
 
 
 

@@ -7,8 +7,6 @@ Integrantes: Lionel zarco
 Errores:
 Generación del número aleatorio: La función azar(100) no es válida. Deberías usar una función adecuada para generar números aleatorios dentro del rango [1, 100].
 Lógica del ciclo: La condición Mientras num_secreto<>num_ingresado Y intentos>1 debería ser Mientras num_secreto<>num_ingresado Y intentos>0, ya que al llegar a 0 intentos, el ciclo debe terminar.
-Contador de intentos: En lugar de calcular 11-intentos, debería ser 11 - intentos para representar el número total de intentos.
-Texto de los mensajes: "Le quedan " y "intentos:" tiene que tener espacio entre las palabras, o bien escribirlo como Le quedan: .
 
 2. Algoritmo Calculadora
 Errores:

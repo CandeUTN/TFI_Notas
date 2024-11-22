@@ -1,3 +1,53 @@
 url: https://github.com/lionelzar/tp1/tree/main/tp%20programacion
 Grupo 14
 Integrantes: Lionel zarco
+
+
+1. Algoritmo Adivinar
+Errores:
+Generación del número aleatorio: La función azar(100) no es válida. Deberías usar una función adecuada para generar números aleatorios dentro del rango [1, 100].
+Lógica del ciclo: La condición Mientras num_secreto<>num_ingresado Y intentos>1 debería ser Mientras num_secreto<>num_ingresado Y intentos>0, ya que al llegar a 0 intentos, el ciclo debe terminar.
+Contador de intentos: En lugar de calcular 11-intentos, debería ser 11 - intentos para representar el número total de intentos.
+Texto de los mensajes: "Le quedan " y "intentos:" tiene que tener espacio entre las palabras, o bien escribirlo como Le quedan: .
+
+2. Algoritmo Calculadora
+Errores:
+Operación de división por cero: No hay validación para evitar la división por cero, lo que causaría un error si num2 es igual a 0.
+Nombre de la operación: En el caso de la operación "dividir", debería manejarse con un tipo de dato flotante si el resultado es un número decimal.
+
+3. Algoritmo Interes
+Errores:
+ s=Capital×Tasa×Tiempo, pero falta convertir la tasa de porcentaje a decimal.
+Faltan validaciones: No se verifica que los valores de la tasa, tiempo y capital sean positivos. También sería útil comprobar que la tasa esté en un formato adecuado (por ejemplo, en porcentaje).
+
+4. Algoritmo Invertir
+Errores:
+Concatenación de cadenas: La función concatenar(x, Subcadena(palabra, n, n)) no es válida. En su lugar, debes usar un operador de concatenación adecuado para el lenguaje que estés usando.
+Índice de subcadena: El segundo parámetro en Subcadena(palabra, n, n) no es correcto. Para obtener el carácter de la posición n, el índice debería ser n, n+1 o similar, dependiendo del lenguaje.
+
+5. Algoritmo Matriz
+Errores:
+Uso de Aleatorio: La función Aleatorio(0,30) no es válida, se debe verificar el rango de la función aleatoria, ya que debería ser algo como Aleatorio(0, 30) para generar un número entre 0 y 30.
+Inicialización de variables: Variables como sumacolumnas y sumafilas deben ser inicializadas en cada iteración antes de sumarlas.
+Error en las matrices: El ciclo interno Para yy<-0 Hasta 2 Hacer debería usar y o j consistentemente en vez de yy.
+
+6. Algoritmo Promedio
+Errores:
+Validación de la variable p: La variable p no tiene un valor inicial antes de la validación si p >= 0, lo que puede generar un error. Debes inicializar p antes de esta comprobación.
+Falta la validación para entrada de valores numéricos: No se verifica si los números ingresados por el usuario son válidos (en caso de que no sean números).
+
+7. Algoritmo Tabla
+Errores:
+Condición del ciclo: El ciclo para i <- 1 Hasta numero hacer debería comenzar desde 1 hasta el número ingresado por el usuario (pero debería comprobarse si numero es válido).
+Cálculo de resultado: La variable resultado se calcula correctamente, pero puede ser necesario asegurar que tabla y numero sean enteros.
+
+8. Algoritmo Triangulo
+Errores:
+Lógica del triángulo rectángulo: La condición para verificar si el triángulo es rectángulo (hip^2 = cat1^2 + cat2^2) debería usar el operador de potencia correctamente. Dependiendo del pseudocódigo, el operador ^ puede no ser válido.
+Inicialización de las variables cat1, cat2, y hip: Estas variables no están claramente inicializadas antes de ser usadas.
+Condiciones incorrectas para triángulo rectángulo: El cálculo del área solo es válido si las condiciones del triángulo rectángulo son verdaderas. Se debería revisar si las longitudes son adecuadas para formar un triángulo en primer lugar.
+
+9. Algoritmo Vocales
+Errores:
+Condiciones para vocales: La forma en que se manejan las vocales es incorrecta. Estás utilizando varias asignaciones dentro de un solo si, lo cual no tiene sentido. Se debería verificar cada vocal por separado.
+Falta contar consonantes: El código no cuenta las consonantes correctamente, ni muestra un resultado adecuado para las consonantes. El cálculo debería estar claramente implementado.

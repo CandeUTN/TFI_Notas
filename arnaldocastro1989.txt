@@ -2,3 +2,57 @@ url: https://github.com/arnaldocastro1989/TPFinal-Programacion/tree/main
 Grupo 9
 Integrantes: Castro Arnaldo / Reinoso Ezequiel / Pereyra Cristian / Acevedo Juan Emanuel
 
+1. Algoritmo Adivinar
+Errores:
+Generación del número aleatorio: El uso de azar no está definido correctamente. Se necesita una función para generar números aleatorios.
+Condición de salida del juego: La lógica de la condición para terminar el juego debería estar bien definida, especialmente cuando se acaban los intentos.
+Mensaje de salida: El mensaje en caso de que el número no haya sido adivinado podría ser más claro, por ejemplo, especificando que el jugador se quedó sin intentos.
+
+2. Algoritmo Calculadora
+Errores:
+Validación de la operación: El algoritmo no valida correctamente si la operación ingresada es válida. Si el usuario ingresa un carácter diferente a +, -, *, o /, el programa debería notificarlo.
+Manejo de la división por cero: Aunque se verifica que num2 no sea cero, debería incluirse un mensaje de error antes de realizar la división.
+Uso de variables no inicializadas: Asegúrate de que las variables de entrada sean siempre inicializadas y se maneje correctamente el tipo de datos (por ejemplo, operacion debería ser un carácter).
+
+3. Algoritmo Interes
+Errores:
+Cálculo de intereses: La fórmula para calcular el interés mensual está incorrecta. El interés mensual debe calcularse en función de la tasa anual y el tiempo en meses.
+Variable totalConInteres no calculada: Aunque se pasa como argumento al subproceso, no se calcula ni asigna correctamente en el algoritmo principal.
+Errores en la lógica de la tasa de interés: La tasa de interés se establece como 40, pero debe ser tratada como un porcentaje anual y dividido adecuadamente para obtener el valor mensual.
+
+4. Algoritmo Inversor
+Errores:
+Definición de resultado: La variable resultado debe ser inicializada antes de usarla.
+Método de inversión: El algoritmo usa una forma incorrecta de invertir una cadena. Debería usar un método más adecuado para trabajar con cadenas o concatenar caracteres de forma correcta.
+Índices de subcadena: El índice de la subcadena debe empezar desde 0 en vez de 1 en muchos lenguajes de pseudocódigo, y debe asegurarse que el bucle recorra correctamente.
+
+5. Algoritmo Piramide
+Errores:
+Uso de la variable columna: La variable columna está declarada en el subproceso, pero no está siendo utilizada correctamente en el bucle. Además, no se inicializa en el algoritmo principal.
+Faltan espacios para la pirámide: La lógica de la pirámide no tiene suficientes espacios para crear la forma triangular. Se necesita agregar la lógica para manejar los espacios en blanco.
+
+6. Algoritmo Promedios
+Errores:
+Cálculo del promedio: El cálculo del promedio es incorrecto porque la fórmula debería tomar en cuenta los valores ingresados, pero la variable suma es utilizada de manera incorrecta.
+Falta de manejo para valores negativos: El algoritmo no gestiona correctamente las entradas de valores negativos (si se aplica alguna validación de entrada).
+Uso del ciclo Repetir: Aunque el ciclo se repite correctamente hasta que el usuario ingresa 0, la lógica de manejo de la entrada podría ser más eficiente para validar números.
+
+7. Algoritmo AreaTriangulo
+Errores:
+Uso incorrecto de Area: El valor de Area debe coincidir con la variable que almacena el resultado, pero en el subproceso mostrarResultado, la variable está siendo referenciada con mayúscula (debería ser area).
+Faltan validaciones: El programa no valida que los valores de la base y la altura sean positivos antes de calcular el área.
+
+8. Algoritmo ContadorDeVocales
+Errores:
+Uso de la función SubCadena: La función SubCadena no está correctamente implementada. Debería revisarse si el pseudocódigo es compatible con su sintaxis.
+Consideración de mayúsculas y minúsculas: Aunque se verifica vocales tanto en minúsculas como en mayúsculas, esta validación puede ser simplificada usando una conversión a minúsculas o mayúsculas de toda la cadena antes del conteo.
+
+9. Algoritmo SumaMatrices
+Errores:
+Declaración de matrices: Al utilizar las matrices, la sintaxis podría no estar clara. Es importante definir correctamente las dimensiones de las matrices, especialmente cuando se usa un lenguaje de pseudocódigo.
+Suma de matrices: En el subproceso, la suma de matrices no está manejando correctamente los índices, ya que los índices de las matrices pueden no ser compatibles con el bucle que se usa.
+
+10. Algoritmo TablaMult
+Errores:
+Lógica del bucle: El ciclo Repetir no se ajusta correctamente a los límites del contador para generar la tabla de multiplicar, ya que el contador debe llegar hasta 20.
+Faltan validaciones: El algoritmo no valida si el número ingresado es un número entero antes de iniciar la tabla.

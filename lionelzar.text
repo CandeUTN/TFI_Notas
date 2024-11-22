@@ -51,3 +51,5 @@ Condiciones incorrectas para triángulo rectángulo: El cálculo del área solo 
 Errores:
 Condiciones para vocales: La forma en que se manejan las vocales es incorrecta. Estás utilizando varias asignaciones dentro de un solo si, lo cual no tiene sentido. Se debería verificar cada vocal por separado.
 Falta contar consonantes: El código no cuenta las consonantes correctamente, ni muestra un resultado adecuado para las consonantes. El cálculo debería estar claramente implementado.
+
+Nota: 6

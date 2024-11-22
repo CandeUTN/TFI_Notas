@@ -51,3 +51,5 @@ Uso inconsistente de comentarios para explicar el flujo del programa.
 Errores:
 Faltan validaciones para la entrada (por ejemplo, que la base y la altura sean mayores que 0).
 Error tipográfico en "triángulo" en la salida.
+
+Nota: 7.5

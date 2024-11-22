@@ -47,3 +47,5 @@ Adivinar Número:
 Error: El uso de Azar(25) genera números entre 0 y 25, lo cual no es correcto si deseas que el número esté entre 1 y 25. Asegúrate de ajustar el rango del número aleatorio generado.
 
 Error: La lógica para mostrar los mensajes podría mejorarse para indicar con más claridad si el número ingresado es mayor o menor que el número aleatorio.
+
+Nota: 7

@@ -4,8 +4,6 @@ Integrantes: SOTELO JUAN CRUZ
 
 AdivinanzaUTN
 No hay control de flujo después de adivinar correctamente, lo que permite que el ciclo continúe.
-Falta una opción para salir del ciclo en caso de acertar el número.
-Se usa numeroAleatorio <- AZAR(25) + 1 en vez de AZAR(25) + 1, que podría dar valores incorrectos si no se asegura el rango.
 
 Area_tríanguloUTN
 Es necesario verificar si la base y la altura son números positivos, ya que no se validan.
@@ -18,9 +16,6 @@ El menú de opciones debería seguir mostrándose después de cada operación, n
 Calculadora_de_promediosUTN
 No se valida que la cantidad de valores a promediar sea mayor que 0.
 No se verifica que las notas sean números válidos.
-
-CuentaVocalesUTN
-El nombre de la variable Vocales no es estándar; las convenciones de nombres suelen ser en minúsculas.
 
 InteresUTN
 El interés debería calcularse con tasas no predeterminadas, o permitir que el usuario ingrese la tasa.
@@ -35,10 +30,9 @@ El código para la suma de matrices tiene índices incorrectos al trabajar con m
 La impresión de las matrices no es consistente (hay líneas en blanco innecesarias).
 La variable vMatrizC no debería ser declarada como ENTERO sin saber el tipo de elementos que tendrá.
 
-PiramideUTN
-La variable i podría causar problemas al no inicializarse correctamente, dependiendo de cómo se use.
-No hay validación sobre qué valor debe ingresar el usuario para evitar errores si se ingresan valores negativos.
 
 TablaUTN
 No hay validación para asegurarse de que el número ingresado sea positivo.
 Falta una verificación para que el número de la tabla sea mayor que cero.
+
+Nota: 8

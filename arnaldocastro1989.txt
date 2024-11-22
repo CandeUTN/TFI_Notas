@@ -56,3 +56,5 @@ Suma de matrices: En el subproceso, la suma de matrices no está manejando corre
 Errores:
 Lógica del bucle: El ciclo Repetir no se ajusta correctamente a los límites del contador para generar la tabla de multiplicar, ya que el contador debe llegar hasta 20.
 Faltan validaciones: El algoritmo no valida si el número ingresado es un número entero antes de iniciar la tabla.
+
+Nota: 7

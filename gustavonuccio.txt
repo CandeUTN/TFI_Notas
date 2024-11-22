@@ -48,4 +48,4 @@ Error: El uso de Azar(25) genera números entre 0 y 25, lo cual no es correcto s
 
 Error: La lógica para mostrar los mensajes podría mejorarse para indicar con más claridad si el número ingresado es mayor o menor que el número aleatorio.
 
-Nota: 8
+Nota: 7

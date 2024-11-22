@@ -38,3 +38,5 @@ El resultado no está presentado en un formato visual claro como matriz.
 TablaMultiplicar:
 Comentarios no necesarios para operaciones básicas como multiplicación.
 Falta de validación si el usuario ingresa valores no numéricos o negativos.
+
+Nota: 7

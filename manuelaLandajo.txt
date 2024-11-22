@@ -29,7 +29,6 @@ Despues del Invert(frase,contador), hay que agregar un Escribir "", para que no 
 Suma de matrices Subprocesos
 
 En la linea 34 y 55 luego de los corchetes hay comas, tener cuidado con eso.
-Son muchos Subprocesos
 
 Usaria un solo subproceso para el llenado de la matriz, otro para mostralo y otro para la Suma.
 
@@ -44,10 +43,7 @@ Tabla_de_multiplicar ok
 
 /////////
 
-piramide 
-
-El bloque que comienza en la linea 54 hasta la 58, hace lo mismo que el bloque de la linea 74 hasta la 78
-Se dificulta la lectura del codigo
+piramide ok
 
 /////////
 
@@ -62,7 +58,7 @@ Adivinar
 
 No me debe mostar el numero que se debe adivinar, ademas me debe dar alguno intentos y guiarme hacia la solucion, si es muy alto o muy bajo mi numero ingresado.
 
-Nota: 7
+Nota: 8
 
 
 

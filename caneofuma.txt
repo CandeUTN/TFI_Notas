@@ -4,4 +4,52 @@ Integrantes: Ricardo Fernando Fumagalli
 
 ENTREGADO FUERA DEL HORARIO
 
+/////////////////////
 
+AdivinaElNumero
+
+   contadorIntentos <- contadorIntentos + 1 debería ir despues de leer intento
+
+/////////////////////
+
+ AreaDeTriangulo ok
+
+/////////////////////
+
+ Calculadora la operacion es mejor con los simbolos de las operaciones
+
+/////////////////////
+
+ ContadorDeVocales 
+ La variable frase deberia ser cadena no caracter
+
+/////////////////////
+
+ InteresSimple ok 
+
+/////////////////////
+
+InvertirCadena
+
+Las variables frase, invertida  deberia ser cadena no caracter
+
+////////////////////
+
+PiramideDeNumeros ok 
+Aunque la base falla 
+
+////////////////////
+
+ PromedioCorteNegativo
+
+ No se puede usar numero para el nombre una variable ya que es UNA PALABRA RESERVADA
+
+ ////////////////////
+
+ TablaDeMultiplicar
+
+ No se puede usar numero para el nombre una variable ya que es UNA PALABRA RESERVADA
+
+ ////////////////////
+
+Nota 6
